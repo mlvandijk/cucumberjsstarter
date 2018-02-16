@@ -12,9 +12,9 @@
     "port": "4444"
   },
   "scripts": {
-    "test": "cucumberjs ./test/features/*.feature --require test/step-definitions/ --require test/support"
+    "test": "cucumberjs ./test/features/*.feature --require test/step-definitions/"
   },
   "devDependencies": {
-    "cucumber": "3.1.0"
+    "cucumber": "^3.1.0"
   }
 }
