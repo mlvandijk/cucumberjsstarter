@@ -1,3 +1,6 @@
+This project is bases on a blog by Thomas Sundberg: http://www.thinkcode.se/blog/2018/02/07/getting-started-with-cucumber-for-javascript
+
+
 ### Install node.js
 
 On Mac OS, using homebrew: `brew install node`
