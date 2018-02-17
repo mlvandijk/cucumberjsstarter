@@ -1,18 +1,11 @@
 {
-  "name": "cucumber-javascript-starter",
+  "name": "cucumberjsstarter",
   "version": "0.1.0",
   "description": "Cucumber JavaScript starter",
   "author": "mlvandijk",
   "repository": {
     "type": "git",
-    "url": "SET_ME"
-  },
-  "config": {
-    "host": "localhost",
-    "port": "4444"
-  },
-  "scripts": {
-    "test": "cucumberjs ./test/features/*.feature --require test/step-definitions/"
+    "url": "https://github.com/mlvandijk/cucumberjsstarter"
   },
   "devDependencies": {
     "cucumber": "^3.2.1"

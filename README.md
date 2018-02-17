@@ -19,6 +19,8 @@ This should return the npm version number.
 
 ### Install Cucumber-js
 
+Add a package.json file including the cucumber version you want to use.
+
 Cucumber-js is available as an npm package: `npm install cucumber`.
 
 This will create a lockfile called `package-lock.json`. You should commit this file.
