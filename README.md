@@ -20,8 +20,22 @@ Cucumber-js is available as an npm package: `npm install cucumber`.
 
 This will create a lockfile called `package-lock.json`. You should commit this file.
 
+### Add features
+
+Add a directory called `features`.
+Add your `.feature` files here.
+
+### Add step definitions
+
+By convention, step definitions are stored in the `features/step-definitions` directory.
+Add a directory called `step-definitions` to your `features` directory.
+Add your `*-steps.js` file here.
+
+### Add implementation
+
+Add a `lib` directory and add your `calculator.js` file here.
 
 ### Running
 
-Run the tests with `./node_modules/.bin/cucumber-js` - but from which location?
+Run the tests with `./node_modules/.bin/cucumber-js`
 
